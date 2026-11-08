@@ -1,0 +1,8 @@
+tables: 15
+identity: 15
+constraints: 44
+pk_unique: 25
+foreign_keys: 19
+functions: 9
+triggers: 2
+rls: 15
